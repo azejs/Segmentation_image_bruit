@@ -78,7 +78,7 @@ Ajoutez ici les instructions pour lancer les tests si le projet en contient.
 
 ## 👤 Auteur
 
-En — Étudiant en économie, Faculté Polydisciplinaire Sultan Moulay Slimane, Béni Mellal
+Ingénieur en systèmes d'information – École SUPMTI ✅
 
 ## 📄 Licence
 
